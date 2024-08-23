@@ -1,4 +1,4 @@
-package main
+package tefas
 
 import (
 	"encoding/json"
