@@ -1,6 +1,6 @@
 # TEFAS Scraper
 
-This project provides a service to retrieve fund information from [TEFAS](https://www.tefas.gov.tr/).
+Simple go package to retrieve fund information from [TEFAS](https://www.tefas.gov.tr/).
 
 ## Installation
 
