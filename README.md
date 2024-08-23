@@ -1,4 +1,4 @@
-# TEFAS Scraper
+# Go TEFAS Package
 
 Simple go package to retrieve fund information from [TEFAS](https://www.tefas.gov.tr/).
 
